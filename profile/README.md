@@ -1,6 +1,6 @@
 # asiNET s.r.o
 
-## Welcome to adiNET s.r.o. GitHub organization"👋
+## Welcome to adiNET s.r.o. GitHub organization👋
 
 <!--
 
